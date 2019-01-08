@@ -8,12 +8,22 @@ Submissions shouldn't have extensive requirements to run the file. This is meant
 - I've included the .csv files and combined all my modules into one single file `bikeshare.py`.
 - Also have removed third party library dependency.
 ### Before executing the below command:
-_**Please make sure that the following directory is maintained after file exraction.**_
+_**The following directory before file exraction.**_
 ```
 bikeshare/
         bikeshare.py
         dataset.7z
         README.md
+```
+
+_**Please make sure that the following directory is maintained after file exraction.**_
+```
+bikeshare/
+        bikeshare.py
+        chicago.csv
+        datasets.7z
+        new_york_city.csv
+        washington.csv
 ```
 - The average runtime for each clean dataset is:
     - Chicago: 10 - 12 secs.
