@@ -1,4 +1,4 @@
-# US Bike Share Analysis 2017
+# Bike Share Analysis 2017
 ## Notes:
 - Based the comments from the previous reviewer(s):
 _"Unable to review:"_
@@ -7,8 +7,9 @@ Submissions shouldn't have extensive requirements to run the file. This is meant
     - _"It should not be necessary to use packages not covered in class or does not come default with Anaconda."_
 - I've included the .csv files and combined all my modules into one single file `bikeshare.py`.
 - Also have removed third party library dependency.
-### Before executing the below command:
-_**The following directory before file exraction.**_
+### Before executing the below command, make sure:
+
+_**The following directory before file exraction, is maintained.**_
 ```
 bikeshare/
         bikeshare.py
@@ -16,7 +17,7 @@ bikeshare/
         README.md
 ```
 
-_**Please make sure that the following directory is maintained after file exraction.**_
+_**Ensure that the following directory is maintained after file exraction.**_
 ```
 bikeshare/
         bikeshare.py
@@ -35,4 +36,5 @@ bikeshare/
     - Washington: 1:30 - 2:00 mins.
 - To run/execute the code use the following:
 `python3 bikeshare.py`
+
 - **_Best viewed in Command Prompt/PowerShell (Windows) or Terminal (MacOS/Linux)._**
